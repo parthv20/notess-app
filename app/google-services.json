@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177553565492",
+    "project_id": "notess-83ec4",
+    "storage_bucket": "notess-83ec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177553565492:android:b1bd7207a4bffc421d2761",
+        "android_client_info": {
+          "package_name": "com.example.notess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177553565492-m2u0ic4o5ll4s5lhntt22qc3u90pim3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgbPctfkvUgiQB-88B2SD_erk-REmOMRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177553565492-m2u0ic4o5ll4s5lhntt22qc3u90pim3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
